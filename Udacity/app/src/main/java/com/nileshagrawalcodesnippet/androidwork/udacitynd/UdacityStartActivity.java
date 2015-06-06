@@ -7,6 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 
 public class UdacityStartActivity extends ActionBarActivity implements View.OnClickListener {
@@ -82,6 +83,7 @@ public class UdacityStartActivity extends ActionBarActivity implements View.OnCl
                 startActivity(buildItBiggerApp);
                 break;
             case R.id.bCapstoneApp:
+                Toast.makeText(this,"This button will start Capstone App !",Toast.LENGTH_SHORT);
                 Intent capstoneApp = new Intent(this,CapstoneProjectStartActivity.class);
                 startActivity(capstoneApp);
                 break;
