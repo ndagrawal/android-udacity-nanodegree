@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UdacityND</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_udacity_start">UdacityStartActivity</string>
+    <string name="title_activity_spotify_streamer_start">SpotifyStreamerStartActivity</string>
+    <string name="title_activity_scrores_app_start">ScroresAppStartActivity</string>
+    <string name="title_activity_library_app_start">LibraryAppStartActivity</string>
+    <string name="title_activity_xyzreader_start">XYZReaderStartActivity</string>
+    <string name="title_activity_build_it_bigger">BuildItBiggerActivity</string>
+    <string name="title_activity_capstone_project_start">CapstoneProjectStartActivity</string>
+</resources>
